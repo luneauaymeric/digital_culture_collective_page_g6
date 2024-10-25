@@ -2,9 +2,10 @@
 
 ## Comment le e-sport transforme la pratique sportive traditionnelle? 
 
-![][image1]  
-[https://media.istockphoto.com/id/1354761874/fr/photo/une-%C3%A9quipe-de-joueurs-professionnels-de-cybersport-c%C3%A9l%C3%A8bre-le-succ%C3%A8s-dans-un-club-de-jeu.jpg?s=612x612\&w=0\&k=20\&c=7uebcKmU7W8oGMeCKGFWUxDclPXJ89ewixrmerqNmM4=](https://media.istockphoto.com/id/1354761874/fr/photo/une-%C3%A9quipe-de-joueurs-professionnels-de-cybersport-c%C3%A9l%C3%A8bre-le-succ%C3%A8s-dans-un-club-de-jeu.jpg?s=612x612&w=0&k=20&c=7uebcKmU7W8oGMeCKGFWUxDclPXJ89ewixrmerqNmM4=)   
-[https://www.ouest-france.fr/sport/esport/video-l-esport-un-sport-comme-les-autres-8101b39d-9f14-4365-8d06-07ea4b08777c](https://www.ouest-france.fr/sport/esport/video-l-esport-un-sport-comme-les-autres-8101b39d-9f14-4365-8d06-07ea4b08777c)
+
+![https://media.istockphoto.com/id/1354761874/fr/photo/une-%C3%A9quipe-de-joueurs-professionnels-de-cybersport-c%C3%A9l%C3%A8bre-le-succ%C3%A8s-dans-un-club-de-jeu.jpg?s=612x612\&w=0\&k=20\&c=7uebcKmU7W8oGMeCKGFWUxDclPXJ89ewixrmerqNmM4=](https://media.istockphoto.com/id/1354761874/fr/photo/une-%C3%A9quipe-de-joueurs-professionnels-de-cybersport-c%C3%A9l%C3%A8bre-le-succ%C3%A8s-dans-un-club-de-jeu.jpg?s=612x612&w=0&k=20&c=7uebcKmU7W8oGMeCKGFWUxDclPXJ89ewixrmerqNmM4=) 
+
+![https://www.ouest-france.fr/sport/esport/video-l-esport-un-sport-comme-les-autres-8101b39d-9f14-4365-8d06-07ea4b08777c](https://www.ouest-france.fr/sport/esport/video-l-esport-un-sport-comme-les-autres-8101b39d-9f14-4365-8d06-07ea4b08777c)
 
 Dans un monde qui se numérise de plus en plus, notre quotidien se trouve bouleversé par les nouvelles technologies. Le sport, par exemple, est l’un des domaines concerné par ces changements. Ainsi, notre exploration vise à comprendre comment la numérisation du sport a pu favoriser de nouvelles pratiques. Plus particulièrement, le e-sport est une industrie mondiale et croissante, ce qui nous pousse à nous y intéresser. 
 
