@@ -38,3 +38,8 @@ Tester le contenu de TikTok via différents comptes et voir comment les préfér
 ---
 
 # Sur quelles sources principales on s’appuie pour répondre à la question et analyser nos hypothèses ?
+Les recherches s'appuieront sur :
+
+- **Études sur les algorithmes de recommandation** et leur fonctionnement au sein de réseaux sociaux.
+- **Analyses de données et études sur les bulles de filtre** pour comprendre comment les utilisateurs sont "ciblés" en fonction de leurs interactions et de leurs préférences.
+- **Rapports de la police nationale** et publications institutionnelles pour identifier leurs objectifs de communication sur TikTok.
