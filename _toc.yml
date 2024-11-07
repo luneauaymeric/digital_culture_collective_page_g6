@@ -8,5 +8,5 @@ chapters:
 - file: exemple.md
 - file: esport/Introduction_présentation_projet_esport.md
 - file: sorority/exercice_md.md
-- file: sorority/dbunk_bot.md
+- file: dbunk_bot/dbunk_bot.md
 - file: biblio.md
