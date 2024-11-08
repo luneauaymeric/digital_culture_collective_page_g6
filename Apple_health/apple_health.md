@@ -16,3 +16,6 @@ Alors, comment les applications de santé modifient-elles nos comportements quot
 <iframe width="100%" src="https://audioblog.arteradio.com/embed/238269" style="margin: 0;padding: 0;border: none;"></iframe>
 
 ### **Ce podcast a été produit par Victoria Viallet, Célestine Didierjean, Felix Maisl et Tom Munch dans le cadre du cours "Culture et enjeux du numérique" enseigné par Aymeric Luneau à Sciences Po, campus de Reims.**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDI5NjY0OTUyXX0=
+-->
