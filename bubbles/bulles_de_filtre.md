@@ -9,4 +9,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i7d55LgDncM?si=tNRBaPsjtm1RZZvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 L’algorithme peut être analysé non pas tant vis-à-vis de sa responsabilité dans la polarisation des opinions en tant que tel, mais comme un élément utilisé par les acteurs politiques (médias et citoyens) pour expliciter et vivre leur rapport au politique sur les réseaux sociaux et l’impact de celui-ci sur la formation de leurs opinions. C’est donc la perception des acteurs étudiés et la manière dont ils se servent de cet outil pour faire sens du réel qui va nous intéresser. [^1]
-[^1]: *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec 
+# Conclusion
+[^1]: *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec
+ 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NTg2OTQ3NDZdfQ==
+-->
