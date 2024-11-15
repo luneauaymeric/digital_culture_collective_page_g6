@@ -4,7 +4,6 @@
 format: jb-book
 root: intro.md
 chapters:
-- file: groupe2.md
 - file: exemple.md
 - file: esport/e-sport_Audoli_Breysse_Neagu_Roy.md
 - file: sorority/sorority.md
