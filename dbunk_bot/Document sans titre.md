@@ -10,7 +10,7 @@ Correspondant à l’attribution  d’événements complexes à des actions secr
 
 Avec la démocratisation d’internet et des réseaux sociaux, les théories du complot se répandent de nos jours de plus en plus rapidement et touchent des milliers d'individus extrêmement facilement sur ces plateformes. Dès lors, rendant leur croyance encore plus accessible, c’est avec un rapport de l’Ifop [^1] qu’en 2023, plus d’un tiers des français voient ces théories les “manipuler” et les persuader. De ce fait, il apparaît comme naturel de se demander comment démanteler le vrai du faux et éviter de se faire piéger. L’intelligence artificielle se révèle ainsi comme une possible solution dans ce nouveau combat. C’est dès lors sur ce que nous nous pencherons plus précisément sur l’analyse de l’IA “Debunk Bot” dans notre podcast \- chatbot conçu afin d’aider à démanteler les croyances conspirationnistes dont certaines personnes sont convaincus en leur démontrant de leur zones d’ombre et l’importance d’adopter un regard critique sur le monde qui nous entoure tout en veillant cependant à se baser sur des principes vérifiés.
 
-![Trump reptilien](https://api.deepai.org/job-view-file/26685b8f-94a3-44b1-b658-d05cfeeb2d34/outputs/output.jpg?art-image=true)
+![Trump reptilien](https://api.deepai.org/job-view-file/0d2c70db-1265-4257-904b-7f4b90a4e71d/outputs/output.jpg?art-image=true)
 
 image générée sur Deep AI, avec l'instruction "President trump transforming into a reptile in mexico with a sombrero"
 
