@@ -3,7 +3,7 @@ Introduction
 + **Définition des bulles  de filtres :** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx9Nuo_ZP-s?si=doH5Tp7a8xJe1HZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Enjeux : une hypothèse fortement reprise 
+## Enjeux : une hypothèse fortement reprise... 
 <img src="https://www.informatique-mania.com/wp-content/uploads/2020/12/Burbuja-Filtro.jpg" alt="drawing" width="350"/>
 
 *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec :
@@ -13,9 +13,10 @@ Introduction
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i7d55LgDncM?si=tNRBaPsjtm1RZZvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 L’algorithme peut être analysé non pas tant vis-à-vis de sa responsabilité dans la polarisation des opinions en tant que tel, mais comme un élément utilisé par les acteurs politiques (médias et citoyens) pour expliciter et vivre leur rapport au politique sur les réseaux sociaux et l’impact de celui-ci sur la formation de leurs opinions. C’est donc la perception des acteurs étudiés et la manière dont ils se servent de cet outil pour faire sens du réel qui va nous intéresser. [^1]
+## P
 # Conclusion
 [^1]: *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTg0MDQxMiwtMTg1ODY5NDc0Nl19
+eyJoaXN0b3J5IjpbMTU0NDI2Njg4MCwtMTg1ODY5NDc0Nl19
 -->
