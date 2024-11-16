@@ -1,4 +1,6 @@
-# Bulles de filtres : définitions et enjeux 
+# Bulles de filtres et polarisation politique sur les réseaux sociaux
+Introduction 
++ image  
 ## Entretiens avec des étudiant . es
 <img src="https://www.informatique-mania.com/wp-content/uploads/2020/12/Burbuja-Filtro.jpg" alt="drawing" width="350"/>
 
@@ -13,5 +15,6 @@ L’algorithme peut être analysé non pas tant vis-à-vis de sa responsabilité
 [^1]: *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg2OTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTE0MzIzNjA3MjEsLTE4NTg2OTQ3NDZdfQ
+==
 -->
