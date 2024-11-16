@@ -14,11 +14,12 @@ L’algorithme peut être analysé non pas tant vis-à-vis de sa responsabilité
 ## Au delà des bulles de filtre, un "prisme des réseaux sociaux" ? 
 
 # Conclusion
+**Un enjeu démocratique : la crise de la représentativité ?**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4cSUp2EWkJs?si=_L4JiVAuT6a1Cd33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [^1]: *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA3ODQ0MjcsLTE4NTg2OTQ3NDZdfQ
-==
+eyJoaXN0b3J5IjpbNjUwNDE4NzcwLC0xODU4Njk0NzQ2XX0=
 -->
