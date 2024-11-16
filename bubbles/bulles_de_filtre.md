@@ -1,7 +1,7 @@
 # Bulles de filtres et polarisation politique sur les réseaux sociaux
 Introduction 
-+ image  
-+ vd
++ **Définition des bulles  de filtres :** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zx9Nuo_ZP-s?si=doH5Tp7a8xJe1HZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Enjeux : une hypothèse fortement reprise 
 <img src="https://www.informatique-mania.com/wp-content/uploads/2020/12/Burbuja-Filtro.jpg" alt="drawing" width="350"/>
@@ -17,5 +17,5 @@ L’algorithme peut être analysé non pas tant vis-à-vis de sa responsabilité
 [^1]: *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjkwNzM1OSwtMTg1ODY5NDc0Nl19
+eyJoaXN0b3J5IjpbMTI4NTg0MDQxMiwtMTg1ODY5NDc0Nl19
 -->
