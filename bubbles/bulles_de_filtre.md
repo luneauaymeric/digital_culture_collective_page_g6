@@ -5,13 +5,11 @@
 
 Exemple de la manière dont les bulles de filtres sont fréquemment décrites dans le débat public, cette vidéo rend-elle pour autant compte de la réalité que recouvre (ou ne recouvre pas) ce concept ?
 
-Avec l’arrivée des réseaux sociaux, la question des bulles de filtres a pris beaucoup de place dans le débat public. Présenté comme une réalité algorithmique qui serait un danger pour la démocratie et qui endoctrinerait la jeunesse, le principe de la bulle de filtres est de fait beaucoup moins certain qu’on ne pourrait le croire.
+Avec l’arrivée des réseaux sociaux, la question des bulles de filtres a pris beaucoup de place dans le débat public. Présenté comme une réalité algorithmique qui serait un danger pour **la démocratie** et qui endoctrinerait la jeunesse, le principe de la bulle de filtres est de fait beaucoup moins certain qu’on ne pourrait le croire.
 
-Selon la CNIL, la bulle de filtres est un “phénomène principalement observé sur les réseaux sociaux où les algorithmes de recommandation – qui alimentent par exemple les fils d’actualité des publications susceptibles d’intéresser les utilisateurs– peuvent parfois ne proposer que des contenus similaires entre eux. Ce phénomène intervient lorsqu’un algorithme est paramétré pour ne proposer que des résultats correspondant aux goûts connus d’un utilisateur, il ne sortira alors jamais des catégories connues.”[^1] 
+Selon la **CNIL**, la bulle de filtres est un “phénomène principalement observé sur les réseaux sociaux où les algorithmes de recommandation – qui alimentent par exemple les fils d’actualité des publications susceptibles d’intéresser les utilisateurs– peuvent parfois ne proposer que des contenus similaires entre eux. Ce phénomène intervient lorsqu’un algorithme est paramétré pour ne proposer que des résultats correspondant aux goûts connus d’un utilisateur, il ne sortira alors jamais des catégories connues.”[^1] 
 
-*
-
-Alors que plus de neufs jeunes sur dix s’informent principalement sur les réseaux sociaux*[^2], il est légitime de se questionner sur leurs effets sur la politisation des jeunesses. Beaucoup s’inquiètent des effets que pourraient avoir les bulles de filtre sur nos démocraties. La responsabilité des réseaux sociaux est notamment mise en cause dans les phénomènes de radicalisation et de polarisation des champs politiques. Les inquiétudes concernant les bulles de filtres sont multiples : en ne proposant que du contenu qui est sûr de plaire aux consommateur. ices, une forme de bulle de filtre renfermerait les consommateur. ices leurs propres opinions. Sur le long terme, des communautés entières pourraient s’isoler puis se radicaliser dans leurs positions car les bulles de filtre empêcheraient aux gens d’avoir des expériences communes. De plus, elles faciliteraient la circulation de fake news et de contenu extrémiste, ce type de contenu étant davantage proposé à des personnes susceptibles d’être interessé. es et d’interagir avec. Les biais cognitifs sont également un facteur à prendre en considération ; les bulles de filtres jouant notamment sur le biais de confirmation - enfermé. es dans leurs bulles, les consommateur. ices seraient plus vulnérables faces aux fausses informations.
+**Alors que plus de neufs jeunes sur dix s’informent principalement sur les réseaux sociaux**[^2], il est légitime de se questionner sur leurs effets sur la politisation des jeunesses. Beaucoup s’inquiètent des effets que pourraient avoir les bulles de filtre sur nos démocraties. La responsabilité des réseaux sociaux est notamment mise en cause dans les phénomènes de radicalisation et de polarisation des champs politiques. Les inquiétudes concernant les bulles de filtres sont multiples : en ne proposant que du contenu qui est sûr de plaire aux consommateur. ices, une forme de bulle de filtre renfermerait les consommateur. ices leurs propres opinions. Sur le long terme, des communautés entières pourraient s’isoler puis se radicaliser dans leurs positions car les bulles de filtre empêcheraient aux gens d’avoir des expériences communes. De plus, elles faciliteraient la circulation de fake news et de contenu extrémiste, ce type de contenu étant davantage proposé à des personnes susceptibles d’être interessé. es et d’interagir avec. Les biais cognitifs sont également un facteur à prendre en considération ; les bulles de filtres jouant notamment sur le biais de confirmation - enfermé. es dans leurs bulles, les consommateur. ices seraient plus vulnérables faces aux fausses informations.
 
 **Les « bulles de filtres » sont-elles une réalité algorithmique avérée ? Quel est leur rôle dans la formation d'opinions et d'identités politiques et dans la polarisation du débat politique sur les réseaux sociaux ?**
 
@@ -19,7 +17,7 @@ Alors que plus de neufs jeunes sur dix s’informent principalement sur les rés
 
 Les bulles de filtres sont souvent présentées comme étant une réalité algorithmique. En effet, nombres de réseaux sociaux sont construits pour continuer de proposer du contenu avec lequel les utilisateur.ices seraient susceptibles d’interagir.
 
-Les bulles de filtres constituent un risque dans plusieurs mesures. On pourrait lui imputer une partie de la responsabilité de la polarisation, de la radicalisation, de la diffusion de fake news… Ces bulles ont tendance à nous enfermer dans nos propres opinions, nous confortent dedans, et nous nous laissons souvent par paresse intellectuelle rester dans l’homophilie.
+Les bulles de filtres constituent un risque dans plusieurs mesures. On tend à leur imputer une partie de la responsabilité de la polarisation, de la radicalisation, de la diffusion de fake news… Ces bulles auraient tendance à nous enfermer dans nos propres opinions, nous confortent dedans, et nous nous laissons souvent par paresse intellectuelle rester dans l’homophilie.
 
 Plus nous sommes enfermés dans une sorte de chambre à écho, moins nous avons d’expériences communes avec le reste des gens, nous nous enfermons dans une niche et devenons plus susceptibles de croire et rediffuser des fake news ou de nous radicaliser encore plus, n’ayant pas de discours d’opposition. Il devient plus difficile de se comprendre entre nous ou trouver des terrains d’entente. Nous n’avons qu’une version du discours publiés et faisons abstraction du reste, un fonctionnement incompatible avec les principe même de deliberation en démocratie. C’est le genre de mécanisme qu’on retrouve chez les incels par exemple -les involuntary celibates- qui se radicalisent dans leur haine des femmes dans leur propre bulle sur internet, entre réseaux ultra masculins, diffusion d’information sur ce sujet et chats où s’enchaînent des propos plus poussés les uns que les autres, des hommes tombent dans des croyances extrêmement dangereuses.
 
@@ -131,7 +129,7 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2MjgwMzczLC0xNDEzODI5MzAsLTE0Mz
-I1NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0
-Nl19
+eyJoaXN0b3J5IjpbMjA5NTkxNzg3MCwtMTQxMzgyOTMwLC0xND
+MyNTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3NzAsLTE4NTg2OTQ3
+NDZdfQ==
 -->
