@@ -98,9 +98,9 @@ Transcription extraite d’un entretien avec une étudiante de 21 ans, déclaran
 
 > Question : Quel est selon vous le rôle des bulles de filtres dans la qualité des échanges sur internet ?
 > > Je pense que cela favorise quelque chose de plus apaisé, car chacun rencontre quand même des personnes avec des opinions différentes, mais cela se fait de proche en proche. On ne côtoie pas directement des personnes radicalement opposées, ce qui évite le clash. Après, leur impact est limité j’ai l’impression. Parce qu'il y a quand même généralement des débats très virulents qui ont lieu - je m’inclue dedans honnêtement. Mes amies moins politisées ne comprennent pas toujours pourquoi je perds mon temps avec ça parfois.
-Question : Prends-tu part à des échanges / débats politiques sur les réseaux sociaux ? Que penses-tu de la qualité des débats ?
-
-Il m’arrive de débattre en commentaires oui. J’avoue que j’aime bien l’exercice même. Il y a du répondant donc je peux m’exprimer pleinement. Et en général, il y a beaucoup de réponses et de réactions donc ça peut durer et tourner un peu. Pour la qualité, ça dépend des fois et des sujets en vrai, mais au moins en général j’en apprends sur les perspectives opposées et j’améliore mes contre-arguments, parce que parfois, il y a des trucs qu’on pensait pas aller si loin, mais sur les réseaux ça se révèle vraiment.
+> 
+> Question : Prends-tu part à des échanges / débats politiques sur les réseaux sociaux ? Que penses-tu de la qualité des débats ?
+> > Il m’arrive de débattre en commentaires oui. J’avoue que j’aime bien l’exercice même. Il y a du répondant donc je peux m’exprimer pleinement. Et en général, il y a beaucoup de réponses et de réactions donc ça peut durer et tourner un peu. Pour la qualité, ça dépend des fois et des sujets en vrai, mais au moins en général j’en apprends sur les perspectives opposées et j’améliore mes contre-arguments, parce que parfois, il y a des trucs qu’on pensait pas aller si loin, mais sur les réseaux ça se révèle vraiment.
 
 D’autres réponses allaient dans un sens similaire. Deux éléments principaux nous ont intéressés ici. D’une part, la perception plutôt positive de la bulle de filtre qui jouerait un rôle de modérateur. Faisant d’une certaine façon écho aux conséquences de la rupture de la chambre d’écho sur les identités politiques, la bulle est envisagée par l’usager comme un moyen d’éviter des confrontations entre des opinions radicalement opposées et donc potentiellement plus violentes (“clash”) et polarisantes. Au-delà de sa réalité algorithmique, on constate donc que la bulle de filtre peut être utilisée par les acteurs comme un élément de compréhension de leur propre politisation sur les réseaux sociaux, qui plus est à contrepied des conséquences qui lui sont généralement attribuées. D’autre part, la manière dont les réseaux sociaux sont décrits comme un lieu où les opinions politiques “se révèle[nt] vraiment”. Il semble que les réseaux sociaux soient donc ici perçus comme un lieu où les avis sont marqués et où l’on peut se rendre compte et apprendre à connaître “l’opposition”. En revanche, on note que ce contact avec des opinions opposées ou plutôt avec des personnes aux opinions opposées est perçu comme un moyen de réaffirmer et renforcer un argumentaire préexistant et non pas comme un moyen potentiel de modérer ou altérer ses positions. La personne interrogée admet prendre part à des débats “virulents” dont ses proches ne voient pas toujours l’intérêt.
 
@@ -110,6 +110,8 @@ L'approche par la notion de prisme complexifie l’analyse de la polarisation po
 
 Enfin, il semble donc que ce sujet nous invite à poser la question des réseaux sociaux comme un espace central du dialogue politique et de la nécessité de comprendre les écarts qui peuvent exister entre la réalité et la réalité perçue et retransmise sur les réseaux sociaux et dans les différentes chambres d’écho. La polarisation ne peut donc pas se comprendre uniquement en séparant le monde “online” et “offline” mais par la compréhension des circulations entre les identités des usagers dans ces deux modalités d’expressions de leurs opinions politiques.
 # Conclusion
+
+Les bulles de filtre s'inscrivent donc dans la question plus large de la polarisation politique sur les réseaux sociaux, qui s'imposent comme de nouveaux espaces incontournables du débat et de la vie démocratique
 
 Notant la présence des bulles de filtre dans les médias traditionnels, Fabrice Epelboin, enseignant à Sciences Po et spécialiste des médias et réseaux sociaux, lie cette question à la crise de la représentativité à laquelle font face nombres de démocraties :
 
@@ -134,8 +136,8 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3ODk2NzM0LC04OTkzNDE2MTUsLTEyMD
-A2NzQ4MDMsLTExMzE4NjMyNTYsLTE0MTM4MjkzMCwtMTQzMjU2
-MTEyLDE1Nzc4NjM1MTQsNjUwNDE4NzcwLC0xODU4Njk0NzQ2XX
-0=
+eyJoaXN0b3J5IjpbLTE4MDM3OTYxODksLTg5OTM0MTYxNSwtMT
+IwMDY3NDgwMywtMTEzMTg2MzI1NiwtMTQxMzgyOTMwLC0xNDMy
+NTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3NzAsLTE4NTg2OTQ3ND
+ZdfQ==
 -->
