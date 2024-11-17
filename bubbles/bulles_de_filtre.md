@@ -96,11 +96,14 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 
 ### *Bibliographie*
 
++ Zuiderveen Borgesius, Frederik J., Damian Trilling, Judith Möller, Balázs Bodó, Claes H. De Vreese, et Natali Helberger. « Should We Worry about Filter Bubbles? » _Internet Policy Review_ 5, no 1 (31 mars 2016). https://doi.org/10.14763/2016.1.401.
++ 
 
-[^1]: *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec
+
+[^1]: Farchy et Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre ».
 [^2]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODYxNTIyMDEsMTU3Nzg2MzUxNCw2NT
-A0MTg3NzAsLTE4NTg2OTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbNjgzNDQ0ODY4LDE1Nzc4NjM1MTQsNjUwND
+E4NzcwLC0xODU4Njk0NzQ2XX0=
 -->
