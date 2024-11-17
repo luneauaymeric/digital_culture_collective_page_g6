@@ -13,7 +13,7 @@ L’algorithme peut être analysé non pas tant vis-à-vis de sa responsabilité
 ## ... pourtant critiquée et limitée
 
 D’après le concept de bulles de filtres, les utilisateurs de réseaux sociaux seraient donc enfermés dans des bulles d’informations qui entraîneraient une polarisation des opinions. Cependant, plusieurs études contestent cette idée et insistent sur le manque d’études empiriques sur les bulles de filtre puisque celles existantes sont loins d’être unanimes. C’est notamment ce que cherchent à démontrer F. J. Zuiderveen Borgesius, D. Trilling, J. Möller, B. Bodó, C. H. de Vreese, et N. Helberger dans leur article "Should we worry about filter bubbles? Some empirical evidence."[^2] 
-[^
+[^2]: 
  En effet, l’existence des bulles de filtre n’est selon leur étude pas avérée et suscite un émoi disproportionné. En général, il est difficile de mesurer l’impact réel de ces supposées bulles de filtre sur le comportement des utilisateurs.
 
 Lors de nos entretiens, nous avons vu que la plupart des personnes interrogées pensent que le phénomène de bulles de filtre existe et qu’il influence le contenu proposé par les algorithmes sur les réseaux sociaux. Cependant, elles ont souvent nuancé le rôle de ces bulles sur le contenu qu'elles consommaient.
@@ -97,6 +97,6 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^1]: *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDE1NzYxNSwxNTc3ODYzNTE0LDY1MD
-QxODc3MCwtMTg1ODY5NDc0Nl19
+eyJoaXN0b3J5IjpbLTIxMjE3ODgzNTQsMTU3Nzg2MzUxNCw2NT
+A0MTg3NzAsLTE4NTg2OTQ3NDZdfQ==
 -->
