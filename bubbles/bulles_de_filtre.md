@@ -115,9 +115,9 @@ Les bulles de filtre s'inscrivent donc dans la question plus large de la polaris
 
 Réalités algorithmiques dont la portée ne doit pas être exagérée, les acteurs. ices s'en servent au sein des narratifs personnels qu'ils donnent et se donnent de leurs identités politiques et de leurs opinions. 
 
-Les différentes recherches académiques mobilisées appuient sur la nécessité d'un développement encore plus important du champ dans la mesure où ces plateformes évoluent perpetuellement rendant leur étude d'autant plus complexe
+Les différentes recherches académiques mobilisées appuient sur la nécessité d'un développement encore plus important du champ dans la mesure où ces plateformes évoluent perpétuellement rendant leur étude d'autant plus complexe. 
 
-Notant la présence des bulles de filtre dans les médias traditionnels, Fabrice Epelboin, enseignant à Sciences Po et spécialiste des médias et réseaux sociaux, lie cette question à la crise de la représentativité à laquelle font face nombres de démocraties :
+Les enjeux futurs entourant ces questions sont multiples, nous proposons une réflexion sur la manière dont les bulles de filtres sont aussi des rapports de forces, comme souligné dans ce court extrait. Notant la présence des bulles de filtre dans les médias traditionnels, Fabrice Epelboin, enseignant à Sciences Po et spécialiste des médias et réseaux sociaux, lie cette question à la crise de la représentativité à laquelle font face nombres de démocraties :
 
 **Un enjeu démocratique : la crise de la représentativité ?**
 
@@ -140,7 +140,7 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDEwMTk3MiwtODk5MzQxNjE1LC0xMj
+eyJoaXN0b3J5IjpbMjExNDIyMjEyMCwtODk5MzQxNjE1LC0xMj
 AwNjc0ODAzLC0xMTMxODYzMjU2LC0xNDEzODI5MzAsLTE0MzI1
 NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0Nl
 19
