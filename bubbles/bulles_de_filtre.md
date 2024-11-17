@@ -126,7 +126,7 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 ### *Bibliographie*
 
 + Zuiderveen Borgesius, Frederik J., Damian Trilling, Judith Möller, Balázs Bodó, Claes H. De Vreese, et Natali Helberger. « Should We Worry about Filter Bubbles? » _Internet Policy Review_ 5, no 1 (31 mars 2016). https://doi.org/10.14763/2016.1.401.
-+ 
++ Bail, Chris. _Breaking the Social Media Prism : How to Make Our Platforms Less Polarizing_, Princeton University Press, 2022. _ProQuest Ebook Central_, https://ebookcentral.proquest.com/lib/sciences-po/detail.action?docID=6450584.
 
 [^1]: *CNIL*. « Bulle de filtre ». 
 [^2]: *The Media Leader FR*. « Les jeunes s’informent en très grande majorité sur les réseaux sociaux et multiplient les sources, selon une étude - The Media Leader FR ».
@@ -136,7 +136,7 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA2NzQ4MDMsLTExMzE4NjMyNTYsLT
-E0MTM4MjkzMCwtMTQzMjU2MTEyLDE1Nzc4NjM1MTQsNjUwNDE4
-NzcwLC0xODU4Njk0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTg5OTM0MTYxNSwtMTIwMDY3NDgwMywtMT
+EzMTg2MzI1NiwtMTQxMzgyOTMwLC0xNDMyNTYxMTIsMTU3Nzg2
+MzUxNCw2NTA0MTg3NzAsLTE4NTg2OTQ3NDZdfQ==
 -->
