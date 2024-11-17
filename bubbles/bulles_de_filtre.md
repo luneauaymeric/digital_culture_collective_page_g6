@@ -1,9 +1,17 @@
 # Bulles de filtres et polarisation politique sur les réseaux sociaux
-Introduction 
+
 + **Définition des bulles  de filtres :** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx9Nuo_ZP-s?si=doH5Tp7a8xJe1HZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Cette vidéo est un exemple de la manière dont les bulles de fil
 
+Avec l’arrivée des réseaux sociaux, la question des bulles de filtre a pris beaucoup de place dans le débat public. Toujours présenté comme une réalité algorithmique qui serait un danger pour la démocratie et qui endoctrinerait la jeunesse, le principe de la bulle de filtre est de fait beaucoup moins certain qu’on ne pourrait le croire.
+
+Selon la CNIL, la bulle de filtre est un “phénomène principalement observé sur les réseaux sociaux où les algorithmes de recommandation – qui alimentent par exemple les fils d’actualité des publications susceptibles d’intéresser les utilisateurs– peuvent parfois ne proposer que des contenus similaires entre eux. Ce phénomène intervient lorsqu’un algorithme est paramétré pour ne proposer que des résultats correspondant aux goûts connus d’un utilisateur, il ne sortira alors jamais des catégories connues.”
+
+Alors que plus de neufs jeunes sur dix s’informent principalement sur les réseaux sociaux, il est légitime de se questionner sur leurs effets sur la politisation des jeunesses. Beaucoup s’inquiètent des effets que pourraient avoir les bulles de filtre sur nos démocraties. La responsabilité des réseaux sociaux est notamment mise en cause dans les phénomènes de radicalisation et de polarisation de nos champs politiques. En effet, en ne proposant que du contenu qui est sûr de plaire au consommateur.ice, une forme de bulle de filtre se crée et le renfermerait dans ses propres opinions. Sur le long terme, des communautés entières pourraient s’isoler puis se radicaliser dans leurs positions car les bulles de filtre empêcheraient aux gens d’avoir des expériences communes. De plus, elles faciliteraient la circulation de fake news et du contenu extrémiste, ce type de contenu étant davantage proposé à des personnes susceptibles d’être interessé.es et d’interagir avec. Les biais cognitifs sont également un facteur à prendre en considération; les bulles de filtres jouant notamment sur le biais de confirmation -enfermé.es dans leurs bulles, les consommateur.ices sont plus vulnérables faces aux fausses informations.
+
+Les « bulles de filtres » sont-elles vraiment une réalité algorithmique avérée et quel est leur rôle dans la construction politique des jeunes et dans le débat politique sur internet?
 
 ## Enjeux : une hypothèse fortement reprise... 
 <img src="https://www.informatique-mania.com/wp-content/uploads/2020/12/Burbuja-Filtro.jpg" alt="drawing" width="350"/>
@@ -106,6 +114,6 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^2]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxODI3NDI0LDE1Nzc4NjM1MTQsNjUwND
-E4NzcwLC0xODU4Njk0NzQ2XX0=
+eyJoaXN0b3J5IjpbMjEyNzA0MzkyNSwxNTc3ODYzNTE0LDY1MD
+QxODc3MCwtMTg1ODY5NDc0Nl19
 -->
