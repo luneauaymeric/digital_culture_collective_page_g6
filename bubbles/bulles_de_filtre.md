@@ -94,9 +94,11 @@ Notant la présence des bulles de filtre dans les médias traditionnels, Fabrice
 
 Cette approche nous permet d’envisager des questionnements plus larges liés au enjeux démocratiques qui découlent de la manière dont le “prisme” de mé-conception des opinions des autres semble potentiellement rendre plus difficile l’atteinte d’un compromis. Il semble nécessaire d’engager de réelles réflexions sur la transformation des réseaux sociaux, sphère de politisation incontournable pour toute une partie de la population, afin de permettre le renforcement des systèmes démocratiques.
 
+
+
 [^1]: *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE3ODgzNTQsMTU3Nzg2MzUxNCw2NT
-A0MTg3NzAsLTE4NTg2OTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTc4NTg3ODA2LDE1Nzc4NjM1MTQsNjUwND
+E4NzcwLC0xODU4Njk0NzQ2XX0=
 -->
