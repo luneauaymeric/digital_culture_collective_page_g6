@@ -126,12 +126,14 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 
 [^1]: *CNIL*. « Bulle de filtre ». 
 [^2]: *The Media Leader FR*. « Les jeunes s’informent en très grande majorité sur les réseaux sociaux et multiplient les sources, selon une étude - The Media Leader FR ».
-[^3]: 
+[^3]: Youtube. « Les réseaux sociaux vous intoxiquent : les bulles de filtres [Maria Mercanti-Guérin]- YouTube ».
+
+
 [^]: Farchy et Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre ».
 [^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE4NjMyNTYsLTE0MTM4MjkzMCwtMT
-QzMjU2MTEyLDE1Nzc4NjM1MTQsNjUwNDE4NzcwLC0xODU4Njk0
-NzQ2XX0=
+eyJoaXN0b3J5IjpbNzMzMjExOTg3LC0xMTMxODYzMjU2LC0xND
+EzODI5MzAsLTE0MzI1NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3
+MCwtMTg1ODY5NDc0Nl19
 -->
