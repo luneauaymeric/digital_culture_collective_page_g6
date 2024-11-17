@@ -9,7 +9,7 @@ Avec l’arrivée des réseaux sociaux, la question des bulles de filtre a pris 
 
 Selon la CNIL, la bulle de filtre est un “phénomène principalement observé sur les réseaux sociaux où les algorithmes de recommandation – qui alimentent par exemple les fils d’actualité des publications susceptibles d’intéresser les utilisateurs– peuvent parfois ne proposer que des contenus similaires entre eux. Ce phénomène intervient lorsqu’un algorithme est paramétré pour ne proposer que des résultats correspondant aux goûts connus d’un utilisateur, il ne sortira alors jamais des catégories connues.”[^1] 
 
-Alors que plus de neufs jeunes sur dix s’informent principalement sur les réseaux sociaux, il est légitime de se questionner sur leurs effets sur la politisation des jeunesses. Beaucoup s’inquiètent des effets que pourraient avoir les bulles de filtre sur nos démocraties. La responsabilité des réseaux sociaux est notamment mise en cause dans les phénomènes de radicalisation et de polarisation de nos champs politiques. En effet, en ne proposant que du contenu qui est sûr de plaire au consommateur.ice, une forme de bulle de filtre se crée et le renfermerait dans ses propres opinions. Sur le long terme, des communautés entières pourraient s’isoler puis se radicaliser dans leurs positions car les bulles de filtre empêcheraient aux gens d’avoir des expériences communes. De plus, elles faciliteraient la circulation de fake news et du contenu extrémiste, ce type de contenu étant davantage proposé à des personnes susceptibles d’être interessé.es et d’interagir avec. Les biais cognitifs sont également un facteur à prendre en considération; les bulles de filtres jouant notamment sur le biais de confirmation -enfermé.es dans leurs bulles, les consommateur.ices sont plus vulnérables faces aux fausses informations.
+Alors que plus de neufs jeunes sur dix s’informent principalement sur les réseaux sociaux[^2], il est légitime de se questionner sur leurs effets sur la politisation des jeunesses. Beaucoup s’inquiètent des effets que pourraient avoir les bulles de filtre sur nos démocraties. La responsabilité des réseaux sociaux est notamment mise en cause dans les phénomènes de radicalisation et de polarisation de nos champs politiques. En effet, en ne proposant que du contenu qui est sûr de plaire au consommateur.ice, une forme de bulle de filtre se crée et le renfermerait dans ses propres opinions. Sur le long terme, des communautés entières pourraient s’isoler puis se radicaliser dans leurs positions car les bulles de filtre empêcheraient aux gens d’avoir des expériences communes. De plus, elles faciliteraient la circulation de fake news et du contenu extrémiste, ce type de contenu étant davantage proposé à des personnes susceptibles d’être interessé.es et d’interagir avec. Les biais cognitifs sont également un facteur à prendre en considération; les bulles de filtres jouant notamment sur le biais de confirmation -enfermé.es dans leurs bulles, les consommateur.ices sont plus vulnérables faces aux fausses informations.
 
 Les « bulles de filtres » sont-elles vraiment une réalité algorithmique avérée et quel est leur rôle dans la construction politique des jeunes et dans le débat politique sur internet?
 
@@ -123,10 +123,12 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 + 
 
 [^1]: *CNIL*. « Bulle de filtre ». 
+[^2]: 
 [^]: Farchy et Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre ».
 [^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM4MjkzMCwtMTQzMjU2MTEyLDE1Nz
-c4NjM1MTQsNjUwNDE4NzcwLC0xODU4Njk0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTQxNTc1OTkzNCwtMTQxMzgyOTMwLC0xND
+MyNTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3NzAsLTE4NTg2OTQ3
+NDZdfQ==
 -->
