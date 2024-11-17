@@ -27,7 +27,7 @@ Ces mécanismes peuvent être dangereux dans certaines situations, par exemple a
 
 Il y a des enjeux politiques indéniables concernant les bulles de filtres. Reprenant l’exemple des incels par exemple, c’est tout un groupe qui a forgé une sorte de conscience politique radicale et haineuse loin de la réalité (mais qui fait sens dans leur bulle) et qui peut avoir de lourdes conséquences dans les domaines des violences faites aux femmes, de la mise en avant de politiciens conservateurs ou d’extrême droite et de leurs programmes. 
 
-Nous avons mené une courte enquête qualitative en interrogeant 15 de nos camarades et en réalisant des entretiens dont les extraits sont retranscrits dans la suite de notre dossier. Jsuis endormie les gars mes phrases n’ont aucun sens sorry. Nous avons cherché à interroger des jeunes entre 18 et 22 ans qui utilisent les réseaux sociaux comme source primaire d’information et avons discuté de comment iels s’en servent.
+Nous avons mené une courte enquête qualitative en interrogeant 15 de nos camarades et en réalisant des entretiens dont des extraits sont retranscrits dans la suite de notre dossier. Nous avons cherché à interroger des jeunes entre 18 et 22 ans qui utilisent les réseaux sociaux comme source principale d’information et avons discuté de leurs usages et leur rapport au politique sur ces plateformes - majoritairement Instagram, X et Tik
 
 Dans un premier temps nous avons cherché à savoir quels réseaux sociaux iels utilisaient le plus (instagram, X (anciennement Twitter), threads, tik tok, YouTube, twitch et télégram étaient les principaux), et leur façon de s’informer dessus. Nous avons donc discuté des formats qu’iels priorisent, si ce sont plutôt des photos et vidéos ou des posts écrits, courts ou long ainsi de la façon dont iels vont chercher l’information. Suivent-iels certains comptent qui leur plaisent, les comptes de médias, des comptes qui ont des points de vue contradictoire ou les trois ou plus encore? S’informent-iels en suivant plutôt une personne précise ou un sujet précis, est ce que ce qui compte pour elle un c’est la façon dont c’est raconté ou ce qui est raconté? Est-ce qu’iels complètent cela avec d’autres sources d’information, est ce qu’iels fact checkent pas du tout, un peu ou tout ce qu’iels voient?
 
@@ -135,7 +135,7 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDIzNzcwOSwtMTEzMTg2MzI1NiwtMT
-QxMzgyOTMwLC0xNDMyNTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3
-NzAsLTE4NTg2OTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTEyNzI4Mjk3OTIsLTExMzE4NjMyNTYsLT
+E0MTM4MjkzMCwtMTQzMjU2MTEyLDE1Nzc4NjM1MTQsNjUwNDE4
+NzcwLC0xODU4Njk0NzQ2XX0=
 -->
