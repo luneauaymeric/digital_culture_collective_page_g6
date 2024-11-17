@@ -111,7 +111,9 @@ L'approche par la notion de prisme complexifie l’analyse de la polarisation po
 Enfin, il semble donc que ce sujet nous invite à poser la question des réseaux sociaux comme un espace central du dialogue politique et de la nécessité de comprendre les écarts qui peuvent exister entre la réalité et la réalité perçue et retransmise sur les réseaux sociaux et dans les différentes chambres d’écho. La polarisation ne peut donc pas se comprendre uniquement en séparant le monde “online” et “offline” mais par la compréhension des circulations entre les identités des usagers dans ces deux modalités d’expressions de leurs opinions politiques.
 # Conclusion
 
-Les bulles de filtre s'inscrivent donc dans la question plus large de la polarisation politique sur les réseaux sociaux, qui s'imposent comme de nouveaux espaces incontournables du débat et de la vie démocratique
+Les bulles de filtre s'inscrivent donc dans la question plus large de la polarisation politique sur les réseaux sociaux, qui s'imposent comme de nouveaux espaces incontournables du débat et de la vie démocratique, malgré les risques que cela peut encourir. 
+
+Réalités algorithmiques dont la portée ne doit pas être exagérée, les acteurs. ices s'en servent au sein des narratifspersonnels qu'ils donnent et se donnent de leurs identités 
 
 Notant la présence des bulles de filtre dans les médias traditionnels, Fabrice Epelboin, enseignant à Sciences Po et spécialiste des médias et réseaux sociaux, lie cette question à la crise de la représentativité à laquelle font face nombres de démocraties :
 
@@ -136,8 +138,8 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM3OTYxODksLTg5OTM0MTYxNSwtMT
-IwMDY3NDgwMywtMTEzMTg2MzI1NiwtMTQxMzgyOTMwLC0xNDMy
-NTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3NzAsLTE4NTg2OTQ3ND
-ZdfQ==
+eyJoaXN0b3J5IjpbLTM1MDMwOTMyNiwtODk5MzQxNjE1LC0xMj
+AwNjc0ODAzLC0xMTMxODYzMjU2LC0xNDEzODI5MzAsLTE0MzI1
+NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0Nl
+19
 -->
