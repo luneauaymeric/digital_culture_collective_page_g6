@@ -49,7 +49,7 @@ Lors de nos entretiens, nous avons vu que la plupart des personnes interrogées 
 
 Chris Bail dans *Breaking the social media prism*[^5] considère que les réseaux sociaux permettent en effet de choisir des sources d'information qui renforcent leurs opinions préexistantes. Il pointe toutefois que ce n'est pas un phénomène nouveau mais qui remonte plutôt aux médias de masse même si les algorithmes modernes ont certes amplifié cet effet en présentant encore plus de contenu similaire. Et pourtant, bien que les algorithmes personnalisent certains flux d’informations, ceux-ci ne restreignent pas les utilisateurs à des informations correspondant au profil établi par la récolte des données les concernant. Le fonctionnement des algorithmes est complexe et certains réseaux sociaux comme Facebook proposent aussi des espaces permettant aux utilisateurs de découvrir des contenus diversifiés.
 
-De plus, un article scientifique sur ce même réseau social de E. Bakshy et S. Messing intitulé "Exposure to ideologically diverse news and opinion on Facebook." souligne le rôle important des utilisateurs et de comment ils gèrent leurs réseaux sociaux. En effet, les utilisateurs intéressés par la politique font souvent l’effort de chercher des informations sur les sujets qui les intéressent et qu’ils considèrent importants. Nous avons pu vérifier cela par les interviews que nous avons mené. En effet, plusieurs personnes que nous avons interrogées et qui s'intéressent aux élections américaines ont cherché à comprendre les deux camps politiques peu importe leurs propres convictions.
+De plus, un article scientifique sur ce même réseau social de E. Bakshy et S. Messing intitulé "Exposure to ideologically diverse news and opinion on Facebook."[^6] souligne le rôle important des utilisateurs et de leurs habitudes de gestion de leurs réseaux sociaux. En effet, les utilisateurs intéressés par la politique font souvent l’effort de chercher des informations sur les sujets qui les intéressent et qu’ils considèrent importants. Nous avons pu vérifier cela par les interviews que nous avons mené. En effet, plusieurs personnes que nous avons interrogées et qui s'intéressent aux élections américaines ont cherché à comprendre les deux camps politiques peu importe leurs propres convictions.
 
 Voici la retranscription d’une partie d’un entretien mené avec un.e étudiant.e anonyme :
 
@@ -132,12 +132,11 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^2]: *The Media Leader FR*. « Les jeunes s’informent en très grande majorité sur les réseaux sociaux et multiplient les sources, selon une étude - The Media Leader FR ».
 [^3]: Youtube. « Les réseaux sociaux vous intoxiquent : les bulles de filtres [Maria Mercanti-Guérin]- YouTube ».
 [^4]: Farchy et Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre ».
-[^5]: Bail, _Breaking the social media prism.
-
-[^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
+[^5]: Bail, Breaking the social media prism.
+[^6]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk1NzE4NDQsLTg5OTM0MTYxNSwtMT
+eyJoaXN0b3J5IjpbLTE1MTU2NjA3OTksLTg5OTM0MTYxNSwtMT
 IwMDY3NDgwMywtMTEzMTg2MzI1NiwtMTQxMzgyOTMwLC0xNDMy
 NTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3NzAsLTE4NTg2OTQ3ND
 ZdfQ==
