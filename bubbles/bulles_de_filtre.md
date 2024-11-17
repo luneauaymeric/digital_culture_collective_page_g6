@@ -54,15 +54,13 @@ De plus, un article scientifique sur ce même réseau social de E. Bakshy et S. 
 Voici la retranscription d’une partie d’un entretien mené avec un étudiant de 22 ans :
 
 > Question : les réseaux sociaux sont-ils ta source principale d’information ?
-> > Oui, la plupart du temps je suis l’actualité grâce aux réseaux sociaux mais quand une info me choque vraiment ou qu’un événement important va arriver comme les élections américaines, je cherche d’autres sources que les réseaux sociaux.
-
-Question : quels autres canaux d’information tu as utilisé pour les élections américaines ?
-
-Réponse : je suis allé lire des articles de journaux, j’ai cherché comment fonctionnait le système électoral sur Youtube et sur internet et j’ai écouté l’avis d’experts en podcast donc par la radio.
-
-Question : connais-tu le concept de « bulle de filtres » et penses-tu en être victime ?
-
-Réponse : oui, ce sont les algorithmes qui créent ces bulles où les gens ne sont exposés qu’à des posts et du contenu en général qui vont dans le sens de leurs idées politiques. Et je pense que je suis influencée par ça oui mais en soi j’en ai conscience donc ça ne me dérange pas plus que ça. Je sais qu’il faut faire attention à certaines choses sur les réseaux qui peuvent être instrumentalisées donc je ne partage que les posts qui sont un minimum sourcés et qui mettent des détails dans l’information. En vrai je trouverais ça un peu bizarre de me forcer à avoir du contenu contraire à ses opinions dans son feed parce que je suis des comptes qui ont les mêmes analyses et critiques politiques que les miennes et quand j’ai un doute je vais chercher à la source.
+> > Etudiant : Oui, la plupart du temps je suis l’actualité grâce aux réseaux sociaux mais quand une info me choque vraiment ou qu’un événement important va arriver comme les élections américaines, je cherche d’autres sources que les réseaux sociaux.
+> 
+> Question : quels autres canaux d’information tu as utilisé pour les élections américaines ?
+> >Réponse : je suis allé lire des articles de journaux, j’ai cherché comment fonctionnait le système électoral sur Youtube et sur internet et j’ai écouté l’avis d’experts en podcast donc par la radio.
+> 
+> Question : Connais-tu le concept de « bulle de filtres » et penses-tu être dans une bulle de filtres ?
+> >Réponse : oui, ce sont les algorithmes qui créent ces bulles où les gens ne sont exposés qu’à des posts et du contenu en général qui vont dans le sens de leurs idées politiques. Et je pense que je suis influencée par ça oui mais en soi j’en ai conscience donc ça ne me dérange pas plus que ça. Je sais qu’il faut faire attention à certaines choses sur les réseaux qui peuvent être instrumentalisées donc je ne partage que les posts qui sont un minimum sourcés et qui mettent des détails dans l’information. En vrai je trouverais ça un peu bizarre de me forcer à avoir du contenu contraire à ses opinions dans son feed parce que je suis des comptes qui ont les mêmes analyses et critiques politiques que les miennes et quand j’ai un doute je vais chercher à la source.
 
 Question : est-ce que tu penses que c’est grâce à ta politisation que tu ne vois les bulles de filtre comme une menace ?
 
@@ -135,8 +133,8 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^6]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwNDI2MjgzLC04OTkzNDE2MTUsLTEyMD
-A2NzQ4MDMsLTExMzE4NjMyNTYsLTE0MTM4MjkzMCwtMTQzMjU2
-MTEyLDE1Nzc4NjM1MTQsNjUwNDE4NzcwLC0xODU4Njk0NzQ2XX
-0=
+eyJoaXN0b3J5IjpbLTI3ODQwOTI0NSwtODk5MzQxNjE1LC0xMj
+AwNjc0ODAzLC0xMTMxODYzMjU2LC0xNDEzODI5MzAsLTE0MzI1
+NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0Nl
+19
 -->
