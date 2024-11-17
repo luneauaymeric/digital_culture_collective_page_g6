@@ -127,6 +127,9 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 
 ### *Bibliographie*
 
++ 
++ The Media Leader FR. « Les jeunes s’informent en très grande majorité sur les réseaux sociaux et multiplient les sources, selon une étude - The Media Leader FR », 22 novembre 2022. https://fr.themedialeader.com/les-jeunes-sinforment-en-tres-grande-majorite-sur-les-reseaux-sociaux-et-multiplient-les-sources-selon-une-etude/.
++ 
 + Zuiderveen Borgesius, Frederik J., Damian Trilling, Judith Möller, Balázs Bodó, Claes H. De Vreese, et Natali Helberger. « Should We Worry about Filter Bubbles? » _Internet Policy Review_ 5, no 1 (31 mars 2016). https://doi.org/10.14763/2016.1.401.
 + Bail, Chris. _Breaking the Social Media Prism : How to Make Our Platforms Less Polarizing_, Princeton University Press, 2022. _ProQuest Ebook Central_, https://ebookcentral.proquest.com/lib/sciences-po/detail.action?docID=6450584.
 
@@ -140,8 +143,8 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDIyMjEyMCwtODk5MzQxNjE1LC0xMj
-AwNjc0ODAzLC0xMTMxODYzMjU2LC0xNDEzODI5MzAsLTE0MzI1
-NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0Nl
-19
+eyJoaXN0b3J5IjpbLTEyMzU4NDYxMDEsLTg5OTM0MTYxNSwtMT
+IwMDY3NDgwMywtMTEzMTg2MzI1NiwtMTQxMzgyOTMwLC0xNDMy
+NTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3NzAsLTE4NTg2OTQ3ND
+ZdfQ==
 -->
