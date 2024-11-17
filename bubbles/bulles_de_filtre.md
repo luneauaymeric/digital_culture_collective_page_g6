@@ -19,7 +19,8 @@ Les bulles de filtres sont souvent présentées comme étant une réalité algor
 
 Les bulles de filtres constituent un risque dans plusieurs mesures. On tend à leur imputer une partie de la responsabilité de la polarisation, de la radicalisation, de la diffusion de fake news… Ces bulles auraient tendance à nous enfermer dans nos propres opinions, nous confortant dedans. 
 
-Eli Pariser, un activiste, développe ce concept clef dans les années 2010 à la suite d'un constat : les 
+Eli Pariser, un activiste, développe ce concept clef dans les années 2010 à la suite d'un constat : les résultats de recherche Google diffèrent d'un utilisateur à un autre[^3]. 
+
 Plus nous sommes enfermés dans une sorte de chambre à écho, moins nous avons d’expériences communes avec le reste des gens, nous nous enfermons dans une niche et devenons plus susceptibles de croire et rediffuser des fake news ou de nous radicaliser encore plus, n’ayant pas de discours d’opposition. Il devient plus difficile de se comprendre entre nous ou trouver des terrains d’entente. Nous n’avons qu’une version du discours publiés et faisons abstraction du reste, un fonctionnement incompatible avec les principe même de deliberation en démocratie. C’est le genre de mécanisme qu’on retrouve chez les incels par exemple -les involuntary celibates- qui se radicalisent dans leur haine des femmes dans leur propre bulle sur internet, entre réseaux ultra masculins, diffusion d’information sur ce sujet et chats où s’enchaînent des propos plus poussés les uns que les autres, des hommes tombent dans des croyances extrêmement dangereuses.
 
 Il y a des enjeux politiques indéniables concernant les bulles de filtres. Reprenant l’exemple des incels par exemple, c’est tout un groupe qui a forgé une sorte de conscience politique radicale et haineuse loin de la réalité (mais qui fait sens dans leur bulle) et qui a de lourdes conséquences comme par exemple les violences faites aux femmes qui continuent, la montée de politiciens conservateurs ou d’extrême droite et par conséquent des lois au fur et à mesure de plus en plus conservatrices. Bien que les bulles de filtres existent dans le monde virtuel, elles ont bien des impacts sur le monde réel.
@@ -125,12 +126,12 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 
 [^1]: *CNIL*. « Bulle de filtre ». 
 [^2]: *The Media Leader FR*. « Les jeunes s’informent en très grande majorité sur les réseaux sociaux et multiplient les sources, selon une étude - The Media Leader FR ».
-
+[^3]: 
 [^]: Farchy et Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre ».
 [^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0MDc4NDgzLC0xNDEzODI5MzAsLTE0Mz
-I1NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0
-Nl19
+eyJoaXN0b3J5IjpbLTExMzE4NjMyNTYsLTE0MTM4MjkzMCwtMT
+QzMjU2MTEyLDE1Nzc4NjM1MTQsNjUwNDE4NzcwLC0xODU4Njk0
+NzQ2XX0=
 -->
