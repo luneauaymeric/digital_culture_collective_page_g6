@@ -70,9 +70,11 @@ Selon Chris Bail, les bulles de filtre ne sont pas le problème de fond qui cré
 On retrouve ce concept d’homophilie dans l'article de Joëlle Farchy et Steven Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre » :
 > La chambre d’écho numérique entérine les constats classiques de la sociologie politique qui montre que les cercles de relation sont souvent homophiles, c’està-dire liés à une convergence d’idéologies ou de goûts (Aïm, 2020). 
 
-L’homophilie est un biais qui pousse les personnes à s’entourer d’individus qui leur ressemblent. Étendue aux réseaux sociaux, cette idée peut participer à expliquer la raison pour laquelle les utilisateurs des réseaux sociaux préfèrent suivre et interagir avec des personnes proches de leurs opinions politiques. Cela amène les individus utilisant les réseaux sociaux à se construire des identités politiques fortes perçues comme publiques et à se positionner fermement, en accord avec le groupe auquel ils se sentent appartenir. Chaque avis contraire aux opinions d’un individu est considéré comme une attaque personnelle et une attaque au groupe qui entraîne des débats peu constructifs. L’auteur parle de crispation des identités politiques.
+L’homophilie est donc un biais qui pousse les personnes à s’entourer d’individus qui leur ressemblent. Étendue aux réseaux sociaux, cette idée peut participer à expliquer la raison pour laquelle les utilisateurs des réseaux sociaux préfèrent suivre et interagir avec des personnes proches de leurs opinions politiques. Cela amène les individus utilisant les réseaux sociaux à se construire des identités politiques fortes perçues comme publiques et à se positionner fermement, en accord avec le groupe auquel ils se sentent appartenir. Chaque avis contraire aux opinions d’un individu est considéré comme une attaque personnelle et une attaque au groupe qui entraîne des débats peu constructifs. L’auteur parle de crispation des identités politiques.
+
 ## Au delà des bulles de filtre, un "prisme des réseaux sociaux" ? 
-Bulles de filtre et chambres d’échos semblent donc être des réalités sociales, loin d’être le propre des réseaux sociaux entretenant un lien plus complexe avec la polarisation politique que ce que le narratif communément admis laisse paraître.
+
+Bulles de filtre et chambres d’échos semblent donc être des réalités sociales qui ne sont pas le propre des réseaux sociaux et entretiennent lien plus complexe avec la polarisation politique que ce que le narratif communément admis laisse paraître.
 
 Ainsi, malgré le fait que l’hypothèse d’une relation de causalité directe entre réseaux sociaux fait de bulles de filtres et polarisation politique accrue ne soit pas confirmée par les données empiriques existantes, l’étude de ces éléments reste hautement pertinente d’un point de vue de l’étude de la construction des identités politiques susmentionnées.
 
@@ -135,7 +137,7 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^6]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDgyMTU4OSwtODk5MzQxNjE1LC0xMj
+eyJoaXN0b3J5IjpbMjAxMDAwNjM0OCwtODk5MzQxNjE1LC0xMj
 AwNjc0ODAzLC0xMTMxODYzMjU2LC0xNDEzODI5MzAsLTE0MzI1
 NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0Nl
 19
