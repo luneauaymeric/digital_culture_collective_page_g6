@@ -41,13 +41,13 @@ Nous avons enfin pris le temps de questionner la notion même de filtre, leur de
 *De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre* Joëlle Farchy et Steven Tallec :
 > La chambre d’écho numérique entérine les constats classiques de la sociologie politique qui montre que les cercles de relation sont souvent homophiles, c’està-dire liés à une convergence d’idéologies ou de goûts (Aïm, 2020)
 > 
-D’après le concept de bulles de filtres, les utilisateurs de réseaux sociaux seraient donc enfermés dans des bulles d’informations qui entraîneraient une polarisation des opinions. Cependant, plusieurs études contestent cette idée et insistent sur le manque d’études empiriques sur les bulles de filtre puisque celles existantes sont loins d’être unanimes. C’est notamment ce que cherchent à démontrer F. J. Zuiderveen Borgesius, D. Trilling, J. Möller, B. Bodó, C. H. de Vreese, et N. Helberger dans leur article "Should we worry about filter bubbles? Some empirical evidence."[^4] 
+D’après le concept de bulles de filtres, les utilisateurs de réseaux sociaux seraient donc enfermés dans des bulles d’informations qui entraîneraient une polarisation des opinions. Cependant, plusieurs études contestent cette idée et insistent sur le manque d’études empiriques sur les bulles de filtre puisque celles existantes sont loins d’être unanimes. C’est notamment ce que cherchent à démontrer F. J. Zuiderveen Borgesius, D. Trilling, J. Möller, B. Bodó, C. H. de Vreese, et N. Helberger dans leur article "Should we worry about filter bubbles? Some empirical evidence." [^4] 
 
- En effet, l’existence des bulles de filtre n’est selon leur étude pas avérée et suscite un émoi disproportionné. En général, il est difficile de mesurer l’impact réel de ces supposées bulles de filtre sur le comportement des utilisateurs.
+En effet, l’existence des bulles de filtre n’est selon leur étude pas avérée et suscite un émoi disproportionné. En général, il est difficile de mesurer l’impact réel de ces supposées bulles de filtre sur le comportement des utilisateurs.
 
 Lors de nos entretiens, nous avons vu que la plupart des personnes interrogées pensent que le phénomène de bulles de filtre existe et qu’il influence le contenu proposé par les algorithmes sur les réseaux sociaux. Cependant, elles ont souvent nuancé le rôle de ces bulles sur le contenu qu'elles consommaient.
 
-Chris Bail dans *Breaking the social media prism* considère que les réseaux sociaux permettent en effet de choisir des sources d'information qui renforcent leurs opinions préexistantes. Il pointe toutefois que ce n'est pas un phénomène nouveau mais qui remonte plutôt aux médias de masse même si les algorithmes modernes ont certes amplifié cet effet en présentant encore plus de contenu similaire. Et pourtant, bien que les algorithmes personnalisent certains flux d’informations, ceux-ci ne restreignent pas les utilisateurs à des informations correspondant au profil établi par les intelligences artificielles. Le fonctionnement des algorithmes est complexe et certains réseaux sociaux comme Facebook proposent aussi des espaces permettant aux utilisateurs de découvrir des contenus diversifiés.
+Chris Bail dans *Breaking the social media prism*[^5] considère que les réseaux sociaux permettent en effet de choisir des sources d'information qui renforcent leurs opinions préexistantes. Il pointe toutefois que ce n'est pas un phénomène nouveau mais qui remonte plutôt aux médias de masse même si les algorithmes modernes ont certes amplifié cet effet en présentant encore plus de contenu similaire. Et pourtant, bien que les algorithmes personnalisent certains flux d’informations, ceux-ci ne restreignent pas les utilisateurs à des informations correspondant au profil établi par les intelligences artificielles. Le fonctionnement des algorithmes est complexe et certains réseaux sociaux comme Facebook proposent aussi des espaces permettant aux utilisateurs de découvrir des contenus diversifiés.
 
 De plus, un article scientifique sur ce même réseau social de E. Bakshy et S. Messing intitulé "Exposure to ideologically diverse news and opinion on Facebook." souligne le rôle important des utilisateurs et de comment ils gèrent leurs réseaux sociaux. En effet, les utilisateurs intéressés par la politique font souvent l’effort de chercher des informations sur les sujets qui les intéressent et qu’ils considèrent importants. Nous avons pu vérifier cela par les interviews que nous avons mené. En effet, plusieurs personnes que nous avons interrogées et qui s'intéressent aux élections américaines ont cherché à comprendre les deux camps politiques peu importe leurs propres convictions.
 
@@ -131,13 +131,12 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^1]: *CNIL*. « Bulle de filtre ». 
 [^2]: *The Media Leader FR*. « Les jeunes s’informent en très grande majorité sur les réseaux sociaux et multiplient les sources, selon une étude - The Media Leader FR ».
 [^3]: Youtube. « Les réseaux sociaux vous intoxiquent : les bulles de filtres [Maria Mercanti-Guérin]- YouTube ».
-
-
-[^]: Farchy et Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre ».
+[^4]: Farchy et Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre ».
+[^5]: 
 [^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTI0NDk0NSwtMTEzMTg2MzI1NiwtMT
-QxMzgyOTMwLC0xNDMyNTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3
-NzAsLTE4NTg2OTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTEyMDA2NzQ4MDMsLTExMzE4NjMyNTYsLT
+E0MTM4MjkzMCwtMTQzMjU2MTEyLDE1Nzc4NjM1MTQsNjUwNDE4
+NzcwLC0xODU4Njk0NzQ2XX0=
 -->
