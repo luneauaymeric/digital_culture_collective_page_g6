@@ -3,6 +3,8 @@ Introduction
 + **Définition des bulles  de filtres :** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx9Nuo_ZP-s?si=doH5Tp7a8xJe1HZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
 ## Enjeux : une hypothèse fortement reprise... 
 <img src="https://www.informatique-mania.com/wp-content/uploads/2020/12/Burbuja-Filtro.jpg" alt="drawing" width="350"/>
 
@@ -104,6 +106,6 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^2]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzNDQ0ODY4LDE1Nzc4NjM1MTQsNjUwND
+eyJoaXN0b3J5IjpbMzcxODI3NDI0LDE1Nzc4NjM1MTQsNjUwND
 E4NzcwLC0xODU4Njk0NzQ2XX0=
 -->
