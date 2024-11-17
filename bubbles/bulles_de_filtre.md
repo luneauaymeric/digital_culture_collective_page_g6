@@ -23,9 +23,9 @@ Eli Pariser, un activiste, développe ce concept clef dans les années 2010 à l
 
 Plus nous sommes enfermés dans une sorte de chambre à écho, moins nous avons d’expériences communes avec le reste des gens, nous nous enfermons dans une niche et devenons plus susceptibles de croire et rediffuser des fake news ou de nous radicaliser encore plus, n’ayant pas de discours d’opposition. Il devient plus difficile de se comprendre entre nous ou trouver des terrains d’entente. Nous n’avons qu’une version du discours publié et faisons abstraction du reste, un fonctionnement incompatible avec les principe même de délibération en démocratie. 
 
-Ces mécanismes peuvent être dangereux dans certaines situations, par exemple avec le phénomènes des *incels* par exemple -les involuntary celibates- qui se radicalisent dans leur haine des femmes dans leur propre bulle sur internet, entre réseaux ultra masculins, diffusion d’information sur ce sujet et chats où s’enchaînent des propos plus poussés les uns que les autres, des hommes tombent dans des croyances extrêmement dangereuses.
+Ces mécanismes peuvent être dangereux dans certaines situations, par exemple avec le phénomènes des *incels* par exemple - les involuntary celibates - qui se radicalisent dans leur haine des femmes dans leur propre bulle sur internet, entre réseaux ultra masculins, diffusion d’informations sur ce sujet et chats où s’enchaînent des propos plus poussés les uns que les autres, des hommes tombent dans des croyances extrêmement mysogines.
 
-Il y a des enjeux politiques indéniables concernant les bulles de filtres. Reprenant l’exemple des incels par exemple, c’est tout un groupe qui a forgé une sorte de conscience politique radicale et haineuse loin de la réalité (mais qui fait sens dans leur bulle) et qui a de lourdes conséquences comme par exemple les violences faites aux femmes qui continuent, la montée de politiciens conservateurs ou d’extrême droite et par conséquent des lois au fur et à mesure de plus en plus conservatrices. Bien que les bulles de filtres existent dans le monde virtuel, elles ont bien des impacts sur le monde réel.
+Il y a des enjeux politiques indéniables concernant les bulles de filtres. Reprenant l’exemple des incels par exemple, c’est tout un groupe qui a forgé une sorte de conscience politique radicale et haineuse loin de la réalité (mais qui fait sens dans leur bulle) et qui peut avoir de lourdes conséquences dans les domaines des violences faites aux femmes, c la montée de politiciens conservateurs ou d’extrême droite et par conséquent des lois au fur et à mesure de plus en plus conservatrices. Bien que les bulles de filtres existent dans le monde virtuel, elles ont bien des impacts sur le monde réel.
 
 Nous avons fait une enquête qualitative en interrogeant une petite poignée de nos camarades et en réalisant des entretiens dont les extraits sont retranscrits dans la suite de notre dossier. Jsuis endormie les gars mes phrases n’ont aucun sens sorry. Nous avons cherché à interroger des jeunes entre 18 et 22 ans qui utilisent les réseaux sociaux comme source primaire d’information et avons discuté de comment iels s’en servent.
 
@@ -135,7 +135,7 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzgyMTExNywtMTEzMTg2MzI1NiwtMT
-QxMzgyOTMwLC0xNDMyNTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3
-NzAsLTE4NTg2OTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDk0NzkzMTcsLTExMzE4NjMyNTYsLT
+E0MTM4MjkzMCwtMTQzMjU2MTEyLDE1Nzc4NjM1MTQsNjUwNDE4
+NzcwLC0xODU4Njk0NzQ2XX0=
 -->
