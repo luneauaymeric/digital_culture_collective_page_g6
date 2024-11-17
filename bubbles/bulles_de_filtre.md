@@ -9,9 +9,9 @@ Avec l’arrivée des réseaux sociaux, la question des bulles de filtre a pris 
 
 Selon la CNIL, la bulle de filtre est un “phénomène principalement observé sur les réseaux sociaux où les algorithmes de recommandation – qui alimentent par exemple les fils d’actualité des publications susceptibles d’intéresser les utilisateurs– peuvent parfois ne proposer que des contenus similaires entre eux. Ce phénomène intervient lorsqu’un algorithme est paramétré pour ne proposer que des résultats correspondant aux goûts connus d’un utilisateur, il ne sortira alors jamais des catégories connues.”[^1] 
 
-Alors que plus de neufs jeunes sur dix s’informent principalement sur les réseaux sociaux[^2], il est légitime de se questionner sur leurs effets sur la politisation des jeunesses. Beaucoup s’inquiètent des effets que pourraient avoir les bulles de filtre sur nos démocraties. La responsabilité des réseaux sociaux est notamment mise en cause dans les phénomènes de radicalisation et de polarisation des champs politiques. Les inquiétudes concernant les bulles de filtres sont multiples : en ne proposant que du contenu qui est sûr de plaire aux consommateur. ices, une forme de bulle de filtre renfermerait les consommateur. ices leurs propres opinions. Sur le long terme, des communautés entières pourraient s’isoler puis se radicaliser dans leurs positions car les bulles de filtre empêcheraient aux gens d’avoir des expériences communes. De plus, elles faciliteraient la circulation de fake news et de contenu extrémiste, ce type de contenu étant davantage proposé à des personnes susceptibles d’être interessé.es et d’interagir avec. Les biais cognitifs sont également un facteur à prendre en considération ; les bulles de filtres jouant notamment sur le biais de confirmation -enfermé.es dans leurs bulles, les consommateur.ices sont plus vulnérables faces aux fausses informations.
+Alors que plus de neufs jeunes sur dix s’informent principalement sur les réseaux sociaux[^2], il est légitime de se questionner sur leurs effets sur la politisation des jeunesses. Beaucoup s’inquiètent des effets que pourraient avoir les bulles de filtre sur nos démocraties. La responsabilité des réseaux sociaux est notamment mise en cause dans les phénomènes de radicalisation et de polarisation des champs politiques. Les inquiétudes concernant les bulles de filtres sont multiples : en ne proposant que du contenu qui est sûr de plaire aux consommateur. ices, une forme de bulle de filtre renfermerait les consommateur. ices leurs propres opinions. Sur le long terme, des communautés entières pourraient s’isoler puis se radicaliser dans leurs positions car les bulles de filtre empêcheraient aux gens d’avoir des expériences communes. De plus, elles faciliteraient la circulation de fake news et de contenu extrémiste, ce type de contenu étant davantage proposé à des personnes susceptibles d’être interessé. es et d’interagir avec. Les biais cognitifs sont également un facteur à prendre en considération ; les bulles de filtres jouant notamment sur le biais de confirmation - enfermé. es dans leurs bulles, les consommateur. ices seraient plus vulnérables faces aux fausses informations.
 
-Les « bulles de filtres » sont-elles vraiment une réalité algorithmique avérée et quel est leur rôle dans la construction politique des jeunes et dans le débat politique sur internet?
+Les « bulles de filtres » sont-elles une réalité algorithmique avérée et quel est leur rôle dans la construction politique des jeunes ? Quel est leur rôle dans la polarisation du débat politique sur les réseaux sociaux ?
 
 ## Enjeux : une hypothèse fortement reprise... 
 <img src="https://www.informatique-mania.com/wp-content/uploads/2020/12/Burbuja-Filtro.jpg" alt="drawing" width="350"/>
@@ -129,7 +129,7 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4NDE5MzYsLTE0MTM4MjkzMCwtMTQzMj
-U2MTEyLDE1Nzc4NjM1MTQsNjUwNDE4NzcwLC0xODU4Njk0NzQ2
-XX0=
+eyJoaXN0b3J5IjpbMjQwMzg4OTM5LC0xNDEzODI5MzAsLTE0Mz
+I1NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0
+Nl19
 -->
