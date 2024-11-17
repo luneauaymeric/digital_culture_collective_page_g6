@@ -131,8 +131,10 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 + The Media Leader FR. « Les jeunes s’informent en très grande majorité sur les réseaux sociaux et multiplient les sources, selon une étude - The Media Leader FR », 22 novembre 2022. Consulté le 14 novembre 2024. https://fr.themedialeader.com/les-jeunes-sinforment-en-tres-grande-majorite-sur-les-reseaux-sociaux-et-multiplient-les-sources-selon-une-etude/.
 + Zuiderveen Borgesius, Frederik J., Damian Trilling, Judith Möller, Balázs Bodó, Claes H. De Vreese, et Natali Helberger. « Should We Worry about Filter Bubbles? » _Internet Policy Review_ 5, no 1 (31 mars 2016). https://doi.org/10.14763/2016.1.401.
 + Youtube. « Les réseaux sociaux vous intoxiquent : les bulles de filtres [Maria Mercanti-Guérin]- YouTube ». Consulté le 17 novembre 2024. https://www.youtube.com/watch?v=Zx9Nuo_ZP-s.
-+ Bail, Chris. _Breaking the Social Media Prism : How to Make Our Platforms Less Polarizing_, Princeton University Press, 2022. _ProQuest Ebook Central_, https://ebookcentral.proquest.com/lib/sciences-po/detail.action?docID=6450584.
 + Zuiderveen Borgesius, Frederik J., Damian Trilling, Judith Möller, Balázs Bodó, Claes H. De Vreese, et Natali Helberger. « Should We Worry about Filter Bubbles? » _Internet Policy Review_ 5, no 1 (31 mars 2016). https://doi.org/10.14763/2016.1.401.
++ Bail, Chris. _Breaking the Social Media Prism : How to Make Our Platforms Less Polarizing_, Princeton University Press, 2022. _ProQuest Ebook Central_, https://ebookcentral.proquest.com/lib/sciences-po/detail.action?docID=6450584.
++ Bakshy, Eytan, Solomon Messing, et Lada A. Adamic. « Exposure to Ideologically Diverse News and Opinion on Facebook ». _Science_ 348, no 6239 (5 juin 2015): 1130‑32. https://doi.org/10.1126/science.aaa1160.
++ Farchy, Joëlle, et Steven Tallec. « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre ». _Questions de communication_, no 43 (1 octobre 2023): 241‑68. https://doi.org/10.4000/questionsdecommunication.31474.
 
 [^1]: *CNIL*. « Bulle de filtre ». 
 [^2]: *The Media Leader FR*. « Les jeunes s’informent en très grande majorité sur les réseaux sociaux et multiplient les sources, selon une étude - The Media Leader FR ».
@@ -144,8 +146,8 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc4MTU5NywtODk5MzQxNjE1LC0xMj
-AwNjc0ODAzLC0xMTMxODYzMjU2LC0xNDEzODI5MzAsLTE0MzI1
-NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0Nl
-19
+eyJoaXN0b3J5IjpbLTIwMTM5MTMzMzAsLTg5OTM0MTYxNSwtMT
+IwMDY3NDgwMywtMTEzMTg2MzI1NiwtMTQxMzgyOTMwLC0xNDMy
+NTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3NzAsLTE4NTg2OTQ3ND
+ZdfQ==
 -->
