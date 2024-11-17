@@ -67,7 +67,7 @@ Certains éléments de réponse de cette personne se sont retrouvés lors d’au
 
 Selon Chris Bail, les bulles de filtre ne sont pas le problème de fond qui crée la polarisation sur les réseaux sociaux et il serait trop simpliste de se limiter à cette explication. Il suggère plutôt que cette polarisation est causée par les biais de l’être humain qui font notamment que l’on réagira plus à un contenu provoquant des émotions fortes. Ce sont ces contenus qui sont souvent les plus visibles sur les plateformes et dans le même temps qui sont les plus tranchés, choquants ou polarisants car ils suscitent justement de fortes émotions. L’être humain recherche également de la validation sociale et de la satisfaction, les utilisateurs vont donc préférer du contenu et des personnes qui le confortent dans leurs opinions et qui partagent du contenu qui les mettent d’accord.
 
-On retrouve ce concept d’homophilie dans l'article de Joëlle Farchy et Steven Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre »[^4] :
+On retrouve ce concept d’homophilie dans l'article de Joëlle Farchy et Steven Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre »[^7] :
 > La chambre d’écho numérique entérine les constats classiques de la sociologie politique qui montre que les cercles de relation sont souvent homophiles, c’està-dire liés à une convergence d’idéologies ou de goûts (Aïm, 2020). 
 
 L’homophilie est donc un biais qui pousse les personnes à s’entourer d’individus qui leur ressemblent. Étendue aux réseaux sociaux, cette idée peut participer à expliquer la raison pour laquelle les utilisateurs des réseaux sociaux préfèrent suivre et interagir avec des personnes proches de leurs opinions politiques. Cela amène les individus utilisant les réseaux sociaux à se construire des identités politiques fortes perçues comme publiques et à se positionner fermement, en accord avec le groupe auquel ils se sentent appartenir. Chaque avis contraire aux opinions d’un individu est considéré comme une attaque personnelle et une attaque au groupe qui entraîne des débats peu constructifs. L’auteur parle de crispation des identités politiques.
@@ -80,15 +80,13 @@ Ainsi, malgré le fait que l’hypothèse d’une relation de causalité directe
 
 Joëlle Farchy et Steven Tallec dans leur article : « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre » nous invitent ainsi à étudier dans quelle mesure l’importance de ce phénomène dans la polarisation politique sur les réseaux sociaux est à remettre en question. Les réseaux sociaux constituent indéniablement des espaces de sociabilité unique qui réinventent les rapports au politique, il apparaît toutefois que cela ne soit pas nécessairement l’affaire des chambres d’échos uniquement.C’est dans cette optique que nous avons poursuivi nos entretiens.
 
-Transcription extraite d’un entretien avec un étudiant de 19 ans, déclarant utiliser les réseaux sociaux comme sa source principale d’informations :
+Transcription extraite d’un entretien avec un étudiant de 19 ans :
 
-Question : Produis-tu du contenu politique sur les RS ?
-
--   Non, je suis plutôt dans une posture de consommateur, sur tous les domaines même, pas uniquement politique. Honnêtement, j’admire pas mal les créateurs et créatrices de contenu, notamment politiques. C’est pas facile et c’est s’exposer à des risques de backlash. Et je doute pas mal de la capacité à faire changer les gens d’avis comme ça. Mais bon, heureusement que des gens sont là pour essayer de le faire.
-
-Question : Commentes-tu régulièrement sous des publications avec un compte personnel ?
-
--   Oui, plutôt. J’aime bien apporter mon soutien sur des questions politiques, surtout quand certain.es personnes font face à des polémiques violentes que je trouve injustifiées, pour des prises de positions politiques par exemple. C’est important pour moi de me positionner clairement, de dire ce que j’en pense, même si les réponses sont souvent virulentes… Mais je fais pas vraiment ça pour faire changer ou changer de toute façon.
+> Question : Produis-tu du contenu politique sur les RS ?
+> >Non, je suis plutôt dans une posture de consommateur, sur tous les domaines même, pas uniquement politique. Honnêtement, j’admire pas mal les créateurs et créatrices de contenu, notamment politiques. C’est pas facile et c’est s’exposer à des risques de backlash. Et je doute pas mal de la capacité à faire changer les gens d’avis comme ça. Mais bon, heureusement que des gens sont là pour essayer de le faire.
+>
+> Question : Commentes-tu régulièrement sous des publications avec un compte personnel ?
+> >  Oui, plutôt. J’aime bien apporter mon soutien sur des questions politiques, surtout quand certain. es personnes font face à des polémiques violentes que je trouve injustifiées, pour des prises de positions politiques par exemple. C’est important pour moi de me positionner clairement, de dire ce que j’en pense, même si les réponses sont souvent virulentes… Mais je fais pas vraiment ça pour faire changer ou changer de toute façon.
 
 La personne interviewée fait ici une distinction qui nous a servi de point de départ. En effet, elle ne considère pas le fait de commenter et de se positionner personnellement sur un sujet politique comme une production de contenu politique. Deux dynamiques se dessinent avec d’une part, la conviction affichée que les opinions politiques sont déjà fixées et que le débat sur les réseaux sociaux ne peut pas les influencer et l’importance d’exprimer son soutien et son avis en défense à l’attaque jugée injuste d’une personne sur un sujet politique. Ces réponses font écho à la thèse de Chris Bail concernant la nature de la polarisation sur les réseaux sociaux et plus généralement la forme réelle qu’y prend le politique. En effet, le chercheur avance que la participation politique sur les réseaux sociaux relèvent davantage du champ de la formation d’une identité politique marquée que du débat d’idées et d'opinions. Ainsi, les réponses retranscrites plus haut semblent corroborer ce constat dans la mesure où l’interviewé accorde surtout une importance au fait de “se positionner clairement” sans nécessairement chercher à convaincre ou même à se laisser convaincre déclarant “je fais pas vraiment ça pour changer ou faire changer de toute façon”.
 
@@ -134,13 +132,13 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^3]: Youtube. « Les réseaux sociaux vous intoxiquent : les bulles de filtres [Maria Mercanti-Guérin]- YouTube ».
 [^4]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
 [^5]: Bail, Breaking the social media prism.
-[^6]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
+[^6]: Bakshy, Messing, et Adamic, « Exposure to Ideologically Diverse News and Opinion on Facebook ».
 [^7]:  Farchy et Tallec, « De l’information aux industries culturelles, l’hypothèse chahutée de la bulle de filtre ».
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjkyMzI1NywtODk5MzQxNjE1LC0xMj
-AwNjc0ODAzLC0xMTMxODYzMjU2LC0xNDEzODI5MzAsLTE0MzI1
-NjExMiwxNTc3ODYzNTE0LDY1MDQxODc3MCwtMTg1ODY5NDc0Nl
-19
+eyJoaXN0b3J5IjpbMzk4ODg4ODcyLC04OTkzNDE2MTUsLTEyMD
+A2NzQ4MDMsLTExMzE4NjMyNTYsLTE0MTM4MjkzMCwtMTQzMjU2
+MTEyLDE1Nzc4NjM1MTQsNjUwNDE4NzcwLC0xODU4Njk0NzQ2XX
+0=
 -->
