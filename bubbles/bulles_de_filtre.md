@@ -3,7 +3,7 @@
 + **Définition des bulles  de filtres :** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zx9Nuo_ZP-s?si=doH5Tp7a8xJe1HZS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Exemple de la manière dont les bulles de filtre sont fréquemment décrites dans le débat public, cette vidéo rend-elle pour autant compte de la réalité que recouvre (ou ne recouvre pasun Notre objectif est d'interroger cette vision largement répandue. 
+Exemple de la manière dont les bulles de filtre sont fréquemment décrites dans le débat public, cette vidéo rend-elle pour autant compte de la réalité que recouvre (ou ne recouvre pas) ce concept ?
 
 Avec l’arrivée des réseaux sociaux, la question des bulles de filtre a pris beaucoup de place dans le débat public. Toujours présenté comme une réalité algorithmique qui serait un danger pour la démocratie et qui endoctrinerait la jeunesse, le principe de la bulle de filtre est de fait beaucoup moins certain qu’on ne pourrait le croire.
 
@@ -114,6 +114,6 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^2]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2OTIxMTgzLDE1Nzc4NjM1MTQsNjUwND
+eyJoaXN0b3J5IjpbNzc2NzAyNjg0LDE1Nzc4NjM1MTQsNjUwND
 E4NzcwLC0xODU4Njk0NzQ2XX0=
 -->
