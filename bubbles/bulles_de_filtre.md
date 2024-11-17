@@ -49,13 +49,12 @@ Lors de nos entretiens, nous avons vu que la plupart des personnes interrogées 
 
 Chris Bail dans *Breaking the social media prism*[^5] considère que les réseaux sociaux permettent en effet de choisir des sources d'information qui renforcent leurs opinions préexistantes. Il pointe toutefois que ce n'est pas un phénomène nouveau mais qui remonte plutôt aux médias de masse même si les algorithmes modernes ont certes amplifié cet effet en présentant encore plus de contenu similaire. Et pourtant, bien que les algorithmes personnalisent certains flux d’informations, ceux-ci ne restreignent pas les utilisateurs à des informations correspondant au profil établi par la récolte des données les concernant. Le fonctionnement des algorithmes est complexe et certains réseaux sociaux comme Facebook proposent aussi des espaces permettant aux utilisateurs de découvrir des contenus diversifiés.
 
-De plus, un article scientifique sur ce même réseau social de E. Bakshy et S. Messing intitulé "Exposure to ideologically diverse news and opinion on Facebook."[^6] souligne le rôle important des utilisateurs et de leurs habitudes de gestion de leurs réseaux sociaux. En effet, les utilisateurs intéressés par la politique font souvent l’effort de chercher des informations sur les sujets qui les intéressent et qu’ils considèrent importants. Nous avons pu vérifier cela par les interviews que nous avons mené. En effet, plusieurs personnes que nous avons interrogées et qui s'intéressent aux élections américaines ont cherché à comprendre les deux camps politiques peu importe leurs propres convictions.
+De plus, un article scientifique sur ce même réseau social de E. Bakshy et S. Messing intitulé "Exposure to ideologically diverse news and opinion on Facebook."[^6] souligne le rôle important des utilisateurs et de leurs habitudes de gestion de leurs réseaux sociaux. En effet, les utilisateurs intéressés par la politique semblent pouvoir faire l’effort de chercher des informations sur les sujets qui les intéressent et qu’ils considèrent importants. Nous avons pu vérifier cela par les interviews que nous avons mené. En effet, plusieurs personnes que nous avons interrogées et qui s'intéressent aux élections américaines ont cherché à comprendre les deux camps politiques peu importe leurs propres convictions.
 
-Voici la retranscription d’une partie d’un entretien mené avec un.e étudiant.e anonyme :
+Voici la retranscription d’une partie d’un entretien mené avec un étudiant de 22 ans :
 
-Question : les réseaux sociaux sont-ils ta source principale d’information ?
-
-Réponse : oui, la plupart du temps je suis l’actualité grâce aux réseaux sociaux mais quand une info me choque vraiment ou qu’un événement important va arriver comme les élections américaines, je cherche d’autres sources que les réseaux sociaux.
+> Question : les réseaux sociaux sont-ils ta source principale d’information ?
+> > Oui, la plupart du temps je suis l’actualité grâce aux réseaux sociaux mais quand une info me choque vraiment ou qu’un événement important va arriver comme les élections américaines, je cherche d’autres sources que les réseaux sociaux.
 
 Question : quels autres canaux d’information tu as utilisé pour les élections américaines ?
 
@@ -136,8 +135,8 @@ Cette approche nous permet d’envisager des questionnements plus larges liés a
 [^6]: Zuiderveen Borgesius et al., « Should We Worry about Filter Bubbles? »
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTU2NjA3OTksLTg5OTM0MTYxNSwtMT
-IwMDY3NDgwMywtMTEzMTg2MzI1NiwtMTQxMzgyOTMwLC0xNDMy
-NTYxMTIsMTU3Nzg2MzUxNCw2NTA0MTg3NzAsLTE4NTg2OTQ3ND
-ZdfQ==
+eyJoaXN0b3J5IjpbNjcwNDI2MjgzLC04OTkzNDE2MTUsLTEyMD
+A2NzQ4MDMsLTExMzE4NjMyNTYsLTE0MTM4MjkzMCwtMTQzMjU2
+MTEyLDE1Nzc4NjM1MTQsNjUwNDE4NzcwLC0xODU4Njk0NzQ2XX
+0=
 -->
