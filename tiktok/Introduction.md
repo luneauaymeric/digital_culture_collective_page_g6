@@ -71,7 +71,8 @@ Le succès de TikTok repose sur un algorithme qui propose un flux de vidéos **u
 
 ---
 
-## Conclusion
+## Podcast
 
-L'analyse de TikTok et de son algorithme met en lumière l'importance des données dans la personnalisation des contenus, ainsi que les biais potentiels pouvant influencer les utilisateurs.  
-Notre étude,
+### Video :
+[![Aperçu de la vidéo](./téléchargement.jpeg)](https://audioblog.arteradio.com/embed/238879)
+
