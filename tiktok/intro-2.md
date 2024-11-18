@@ -44,7 +44,6 @@ Les recherches s'appuieront sur :
 - **Analyses de données et études sur les bulles de filtre** pour comprendre comment les utilisateurs sont "ciblés" en fonction de leurs interactions et de leurs préférences.
 - **Rapports de la police nationale** et publications institutionnelles pour identifier leurs objectifs de communication sur TikTok.
 
-- 
 # Plan : Comment fonctionne l’algorithme TikTok ?
 
 ## I. Fonctionnement et enjeux de l’algorithme TikTok
