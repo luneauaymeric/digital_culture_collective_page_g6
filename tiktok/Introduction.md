@@ -1,47 +1,19 @@
 # Introduction
 
-Un jour, en scrollant sur TikTok, l’une de nous est tombée sur une vidéo de la police nationale apparue dans ses **“Pour Toi”**.  
-Cette vidéo, reprenant une tendance prisée des jeunes, semblait conçue pour résonner avec un public précis : **les jeunes issus de milieux dits “populaires”**.  
 
-Cette rencontre soulève une question centrale :  
-**Comment TikTok parvient-il à diffuser un message si précisément vers une audience spécifique ?**  
-**Comment fonctionne l’algorithme TikTok ?**
+Un jour, en scrollant sur **TikTok** , l’une de nous est tombée sur une vidéo de la police nationale apparue dans ses **“Pour Toi”**. Cette vidéo, reprenant une tendance prisée des jeunes, semblait conçue pour résonner avec un public précis : les jeunes issus de milieux dits **“populaires”**. Cette rencontre soulève une question centrale : comment TikTok parvient-il à diffuser un message si précisément vers une audience spécifique ? Comment fonctionne l’algorithme Tiktok ? 
 
----
 
-## La notion de « populaire »
+La notion de **« populaire »**, souvent jugée subjective, mérite d’être précisée. En sciences sociales, elle désigne généralement des groupes socioculturels modestes ou intermédiaires, avec des pratiques culturelles distinctives et marqués par des **codes culturels** propres, comme l’explique **Bourdieu** en **1979**. Ces codes, fréquemment réappropriés sur TikTok, semblent repérés par l’algorithme, qui analyse les éléments visuels, sonores et langagiers des vidéos pour cibler leur diffusion vers un public partageant des habitudes similaires.
 
-La notion de **“populaire”**, souvent jugée subjective, mérite d’être précisée.  
-En sciences sociales, elle désigne généralement :  
-- Des groupes socioculturels modestes ou intermédiaires,  
-- Des pratiques culturelles distinctives,  
-- Des codes culturels propres.  
+Le succès de TikTok repose sur un algorithme qui propose un flux de vidéos ultra-ciblé. Comment fonctionne-t-il ? 
+**Quelques hypothèses :**
+- L’algorithme reposerait sur une **personnalisation extrême** des contenus en analysant les données utilisateur.
+- Il semble exploiter des données contextuelles comme **l’heure** ou la **géolocalisation** pour adapter les suggestions.
+- La personnalisation pourrait renforcer des **bulles de filtres** et des **biais de confirmation**.
+- Les biais dans les données d’entraînement perpétueraient les **inégalités sociales**.
 
-Comme l’explique **Pierre Bourdieu** en 1979, ces codes sont fréquemment réappropriés sur TikTok.  
-L’algorithme semble capable de repérer ces éléments en analysant :  
-- Les aspects **visuels**,  
-- Les **sonorités**,  
-- Les langages des vidéos.  
-
-Cela lui permet de cibler leur diffusion vers un public partageant des habitudes similaires.
-
----
-
-## Le fonctionnement de l'algorithme TikTok
-
-Le succès de TikTok repose sur un algorithme qui propose un flux de vidéos **ultra-ciblé**.  
-### Quelques hypothèses sur son fonctionnement :  
-- **Personnalisation extrême** :  
-  L’algorithme analyserait en détail les **données utilisateur** pour adapter les contenus.  
-
-- **Données contextuelles** :  
-  Des facteurs comme l’**heure** ou la **géolocalisation** pourraient influencer les suggestions.
-
-- **Bulles de filtres et biais de confirmation** :  
-  La personnalisation pourrait **renforcer des biais cognitifs** et enfermer les utilisateurs dans des **bulles**.
-
-- **Biais sociaux dans les données** :  
-  Les inégalités sociales pourraient être perpétuées par des biais présents dans les données d’entraînement.
+Pour tester ces hypothèses, nous créerons plusieurs comptes TikTok aux profils variés. En parallèle, des entretiens avec une influenceuse, therealkeke, et **Maryam Tighanimine**, spécialiste des algorithmes, approfondissent notre compréhension des mécanismes algorithmiques.
 
 ---
 
@@ -55,8 +27,7 @@ Le succès de TikTok repose sur un algorithme qui propose un flux de vidéos **u
 
 ---
 
-## Notre expérience
-
+## L'une de nos experiences
 
 ### Images :  
 1.  <img src="./WhatsApp Image 2024-11-18 at 13.44.35.jpeg" alt="Description de l'image" width="200" />
