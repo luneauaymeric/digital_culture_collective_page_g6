@@ -73,6 +73,6 @@ Le succès de TikTok repose sur un algorithme qui propose un flux de vidéos **u
 
 ## Podcast
 
-### Video :
+### Comment fonctionne les algotitmes TikTok
 [![Aperçu de la vidéo](./téléchargement.jpeg)](https://audioblog.arteradio.com/embed/238879)
 
