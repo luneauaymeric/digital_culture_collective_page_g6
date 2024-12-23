@@ -1,4 +1,4 @@
-# Introduction
+# Tiktok
 
 
 Un jour, en scrollant sur **TikTok** , l’une de nous est tombée sur une vidéo de la police nationale apparue dans ses **“Pour Toi”**. Cette vidéo, reprenant une tendance prisée des jeunes, semblait conçue pour résonner avec un public précis : les jeunes issus de milieux dits **“populaires”**. Cette rencontre soulève une question centrale : comment TikTok parvient-il à diffuser un message si précisément vers une audience spécifique ? Comment fonctionne l’algorithme Tiktok ? 
