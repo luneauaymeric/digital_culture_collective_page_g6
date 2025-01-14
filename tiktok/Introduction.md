@@ -23,7 +23,7 @@ Pour tester ces hypothèses, nous créerons plusieurs comptes TikTok aux profils
 
 ### Image :
 <img src="./WhatsApp Image 2024-11-18 at 19.52.19.jpeg" alt="Description de l'image" width="200" />
-
+![](./WhatsApp Image 2024-11-18 at 19.52.19.jpeg)
 
 ---
 
