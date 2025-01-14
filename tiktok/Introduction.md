@@ -47,3 +47,4 @@ Pour tester ces hypothèses, nous créerons plusieurs comptes TikTok aux profils
 ### Comment fonctionne les algotitmes TikTok
 [![Aperçu de la vidéo](./téléchargement.jpeg)](https://audioblog.arteradio.com/embed/238879)
 
+<iframe width="100%" src="https://audioblog.arteradio.com/embed/238879" style="margin: 0; padding: 0; border: none;"></iframe>
