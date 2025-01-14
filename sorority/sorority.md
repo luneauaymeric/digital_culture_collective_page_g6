@@ -7,7 +7,31 @@ Réservée aux femmes et aux minorités de genre, The Sorority se veut être une
 
 The Sorority pose aussi des questions primordiales en termes numérique et social. L’accessibilité aux outils numériques, la place du système de géolocalisation continue comme outil de protection, ou encore la charge mentale attribuée aux personnes vulnérables et l’imaginaire collectif autour de l'agression de rue sont des dynamiques cruciales que nous discuterons afin d’envisager The Sorority et ses limites dans leur ensemble.
 
-<iframe width="100%" src="https://audioblog.arteradio.com/embed/98898" style="margin: 0;padding: 0;border: none;"></iframe> 
+## Bibliographie
+
+Dang-Vu, Huong, et Thomas Le Jeannic . « Femmes agressées au domicile ou à l’extérieur : une analyse des risques », s. d. [https://www.insee.fr/fr/statistiques/fichier/1377698/ES448G.pdf](https://www.insee.fr/fr/statistiques/fichier/1377698/ES448G.pdf).
+
+  
+
+France Inter. « “The Sorority”, l’application qui aide les femmes à se sentir en sécurité dans la rue », 30 septembre 2024. [https://www.radiofrance.fr/franceinter/podcasts/veille-sanitaire/veille-sanitaire-du-lundi-30-septembre-2024-7341495](https://www.radiofrance.fr/franceinter/podcasts/veille-sanitaire/veille-sanitaire-du-lundi-30-septembre-2024-7341495).
+
+  
+
+Garcia, Sascha. « Meurtre de Philippine : cinq questions sur The Sorority, l’application qui a permis d’alerter 110 000 personnes ». Libération. Consulté le 17 novembre 2024. [https://www.liberation.fr/lifestyle/hightech/meurtre-de-philippine-cinq-questions-sur-the-sorority-lapplication-qui-a-permis-dalerter-110-000-personnes-20240923_Y5P55KJOYJETXEZ77FEMX7KQVU/](https://www.liberation.fr/lifestyle/hightech/meurtre-de-philippine-cinq-questions-sur-the-sorority-lapplication-qui-a-permis-dalerter-110-000-personnes-20240923_Y5P55KJOYJETXEZ77FEMX7KQVU/).
+
+  
+
+« RGPD : de quoi parle-t-on ? » Consulté le 17 novembre 2024. [https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on).
+
+  
+
+The Sorority Foundation. « Rapport d’activité 2023 », 2023. [https://www.jointhesorority.com/_files/ugd/205515_854e60d1e4a542769d2a4acbdb0e66d5.pdf](https://www.jointhesorority.com/_files/ugd/205515_854e60d1e4a542769d2a4acbdb0e66d5.pdf).
+
+  
+« Viols : plus de neuf victimes sur dix connaissaient leur agresseur ». 27 octobre 2018. [https://www.lemonde.fr/les-decodeurs/article/2018/10/27/viols-plus-de-neuf-victimes-sur-dix-connaissaient-leur-agresseur_5375570_4355770.html](https://www.lemonde.fr/les-decodeurs/article/2018/10/27/viols-plus-de-neuf-victimes-sur-dix-connaissaient-leur-agresseur_5375570_4355770.html).
+
+
+> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNTI3NDk3XX0=
+eyJoaXN0b3J5IjpbNjczODc2NTczLC0yMDk3MDQ1NzgyXX0=
 -->
